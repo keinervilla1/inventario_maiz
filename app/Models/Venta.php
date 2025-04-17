@@ -24,3 +24,5 @@ class Venta extends Model
         return $this->belongsTo(Producto::class);
     }
 }
+
+//hola
